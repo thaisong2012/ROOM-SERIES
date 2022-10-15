@@ -1,0 +1,46 @@
+{	
+name: "📽 STAR TREK DISCOVERY SEASON 1-4",	
+author: "@PLAY TV",	
+image: "https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg",	
+url: "https://raw.githubusercontent.com/thaisong2012/ROOM-SERIES/main/Game%20of%20Thrones%20SEASON%201-8",	
+		
+"groups": [	
+
+{	
+name: "STAR TREK DISCOVERY 1 (2017)",  	
+image: "https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg",  	 	
+url: "https://raw.githubusercontent.com/thaisong2012/SERIES/main/STAR%20TREK%20DISCOVERY/STAR%20TREK%20DISCOVERY%20(2017)%20SEASON%201.txt",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
+
+{	
+name: "STAR TREK DISCOVERY 2 (2019)",  	
+image: "https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg",  	 	
+url: "https://raw.githubusercontent.com/thaisong2012/SERIES/main/STAR%20TREK%20DISCOVERY/STAR%20TREK%20DISCOVERY%20(2017)%20SEASON%201.txt",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
+
+{	
+name: "STAR TREK DISCOVERY 3 (2021)",  	
+image: "https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg",  	 	
+url: "https://raw.githubusercontent.com/thaisong2012/SERIES/main/STAR%20TREK%20DISCOVERY/STAR%20TREK%20DISCOVERY%20(2017)%20SEASON%201.txt",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
+
+{	
+name: "STAR TREK DISCOVERY 4 (2022)",  	
+image: "https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg",  	 	
+url: "https://raw.githubusercontent.com/thaisong2012/SERIES/main/STAR%20TREK%20DISCOVERY/STAR%20TREK%20DISCOVERY%20(2017)%20SEASON%201.txt",	
+info: "PLAY TV",	
+playInNatPlayer: "true"	
+},
+
+
+
+	
+	
+]	
+}	
