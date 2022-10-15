@@ -2,7 +2,7 @@
 name: "📽 STAR TREK DISCOVERY SEASON 1-4",	
 author: "@PLAY TV",	
 image: "https://www.nung2hdd.com/wp-content/uploads/2020/10/ihvG9dCEnVU3gmMUftTkRICNdJf-200x300.jpg",	
-url: "https://raw.githubusercontent.com/thaisong2012/ROOM-SERIES/main/Game%20of%20Thrones%20SEASON%201-8",	
+url: "https://raw.githubusercontent.com/thaisong2012/ROOM-SERIES/main/STAR%20TREK%20DISCOVERY.txt",	
 		
 "groups": [	
 
