@@ -33,7 +33,7 @@ playInNatPlayer: "true"
 {	
 name: "STAR TREK DISCOVERY 4 (2022)",  	
 image: "https://www.img09.xyz/assets/movie_poster/b/b361f148249b4036ca0c928146f54a17.jpg",  	 	
-url: "https://raw.githubusercontent.com/thaisong2012/SERIES/main/STAR%20TREK%20DISCOVERY/STAR%20TREK%20DISCOVERY%20(2017)%20SEASON%201.txt",	
+url: "https://raw.githubusercontent.com/thaisong2012/SERIES/main/STAR%20TREK%20DISCOVERY/STAR%20TREK%20DISCOVERY%20(2022)%20SEASON%204.txt",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
 },
