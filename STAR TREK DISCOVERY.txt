@@ -17,7 +17,7 @@ playInNatPlayer: "true"
 {	
 name: "STAR TREK DISCOVERY 2 (2019)",  	
 image: "https://www.nung2hdd.com/wp-content/uploads/2020/10/aJTSeqG43514TewIuS9hiHvbero-200x300.jpg",  	 	
-url: "https://raw.githubusercontent.com/thaisong2012/SERIES/main/STAR%20TREK%20DISCOVERY/STAR%20TREK%20DISCOVERY%20(2017)%20SEASON%201.txt",	
+url: "https://raw.githubusercontent.com/thaisong2012/SERIES/main/STAR%20TREK%20DISCOVERY/STAR%20TREK%20DISCOVERY%20(2019)%20SEASON%202.txt",	
 info: "PLAY TV",	
 playInNatPlayer: "true"	
 },
